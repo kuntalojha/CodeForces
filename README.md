@@ -13,8 +13,8 @@ Add image
 <h1>About me</h1>
 
 - 🏡 I am from Dum Dum, Kolkata, West Bengal, India.
-- 💻 Now I am pursuing my B.Tech in Computer Science And Engineering
-     at 🎓Bankura Unnayani Institute of Engineering. 📚Now I am in my 4th year.
+- 💻 Now I am pursuing my B.Tech in Computer Science And Engineering at 
+- 🎓Bankura Unnayani Institute of Engineering. 📚Now I am in my 4th year.
 - 👀 I’m interested in Competitive Programming.I am always trying to learn new skills.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on any softwer/open sourse  company/organazition .
