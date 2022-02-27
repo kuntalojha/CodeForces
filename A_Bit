@@ -1,0 +1,29 @@
+// CodeForce Problem 
+// 100 Days Challenge
+// Solution Created by KUNTAL OJHA  on 27/02/2022
+// Problem LInk https://codeforces.com/contest/282/problem/A
+// Defficalty Level : 800 
+// Problem Tages: implementation *800
+
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main()
+{
+    int t,count=0;
+    cin>>t;
+    while(t--)
+    {
+    	string c;
+    	cin>>c;
+    	if(c=="++X" || c=="X++" || c=="++x" || c=="x++")
+    	{
+    		count++;
+    	}else if(c=="--X" || c=="X--" || c=="--x" || c=="x--")
+    	{
+    		count--;
+    	}
+    }
+    cout<<count;
+    return 0;
+}
